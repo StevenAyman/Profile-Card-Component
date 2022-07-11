@@ -26,7 +26,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-profile-card-Ljgd_BvyJy
 - Live Site URL: https://stevenayman.github.io/Profile-Card-Component/
 
 ## My process
