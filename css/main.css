@@ -24,8 +24,8 @@ a {
 img.top {
     position: absolute;
     z-index: -1;
-    left: -20%;
-    bottom: 60%;
+    left: -30%;
+    bottom: 50%;
     width: 95vw;
 }
 img.bottom {
