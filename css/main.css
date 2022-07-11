@@ -66,12 +66,12 @@ img.bottom {
     border-radius: 50%;
 }
 .card .info h1 {
-    font-size: 22px;
+    font-size: 18px;
     display: inline-block;
     margin-top: 70px;
 }
 .card .info span {
-    font-size: 22px;
+    font-size: 18px;
     color: hsl(0, 0%, 59%);
     margin-left: 5px;
 }
@@ -79,7 +79,7 @@ img.bottom {
     color: hsl(0, 0%, 59%);
     margin-top: 10px;
     margin-bottom: 30px;
-    font-size: 16px;
+    font-size: 15px;
 }
 .card .info .stats {
     display: flex;
@@ -90,10 +90,11 @@ img.bottom {
 }
 .card .info .stats .stat h2 {
     margin: 0;
+    font-size: 18px
 }
 .card .info .stats .stat p {
     margin: 0;
-    font-size: 14px;
+    font-size: 12px;
     letter-spacing: 2px;
 }
 /* Content Section End */
